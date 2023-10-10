@@ -99,7 +99,7 @@ Our analysis allows us to filter and identify a new list of targeted customers b
 
 ## Dashboard
 
-[https://app.powerbi.com/reportEmbed?reportId=6aa95797-86b8-4508-a421-d2896c39c155&autoAuth=true&ctid=5b4c02d4-75cb-4676-baff-6204a8ee6e4c]
+- [Dashboard](https://app.powerbi.com/links/QVbE97cU-q?ctid=5b4c02d4-75cb-4676-baff-6204a8ee6e4c&pbi_source=linkShare)
 
 ## Thank You
 
